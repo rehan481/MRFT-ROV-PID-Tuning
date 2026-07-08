@@ -19,8 +19,6 @@ The workflow performs:
    - GA-based ISE tuning using the identified model
    - GM-beta MRFT tuning
    - Ziegler-Nichols tuning from MRFT
-   - Tyreus-Luyben tuning from MRFT
-
 ## Main script
 
 Run the main script in MATLAB:
